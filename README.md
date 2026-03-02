@@ -4,9 +4,11 @@
 
 This repository contains everything you need to run the Almaz Haircut website locally.
 
-## Run Locally
 
 ## Designed and Developed By TAHA MEHDI
+
+## Run Locally
+
 
 **Prerequisites:**  Node.js
 

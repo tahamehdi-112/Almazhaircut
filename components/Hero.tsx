@@ -11,7 +11,7 @@ const slides = [
       <>
         PREMIUM<br />
         HAIRCUT<br />
-        HEILBRONN
+        
       </>
     ),
     video: '/assets/IMG_5400.MOV',
@@ -22,7 +22,7 @@ const slides = [
       <>
         MODERN<br />
         STYLING<br />
-        STUTTGART
+        
       </>
     ),
     video: '/assets/IMG_5399.MOV',
@@ -33,7 +33,7 @@ const slides = [
       <>
         CLASSIC<br />
         SHAVES<br />
-        GERMANY
+        
       </>
     ),
     video: '/assets/IMG_5398.MOV',
